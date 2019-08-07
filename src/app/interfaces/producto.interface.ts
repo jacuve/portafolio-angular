@@ -1,4 +1,5 @@
 export interface Producto {
+  categoria: any;
   titulo: any;
   frase: string;
   nombre: string;

@@ -10,16 +10,16 @@ import { Router } from '@angular/router';
 export class HeaderComponent implements OnInit {
 
   constructor( public servicio: InfoPaginaService,
-                private router: Router) { }
+               private router: Router) { }
 
   ngOnInit() {
   }
 
-  buscarProducto ( termino: string ){
-    if(ter.mino.length < 1 ){
+  buscarProducto( termino: string ) {
+    if (termino.length < 1 ) {
       return;
     }
-    
+
     console.log(termino);
   }
 

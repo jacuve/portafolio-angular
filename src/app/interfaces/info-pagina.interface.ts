@@ -8,6 +8,7 @@ export interface InfoPagina{
   pagina_autor?: string;
   facebook?: string;
   twitter?: string;
+  instagram?: string;
   thumblr?: string;
   equipo_trabajo?: any[];
 }
