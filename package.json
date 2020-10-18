@@ -1,6 +1,10 @@
 {
   "name": "portafolio",
   "version": "0.0.0",
+  "description": "portafolio-angular",
+  "main": "main",
+  "homepage": "www.home.com",
+  "engines": "engines",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
