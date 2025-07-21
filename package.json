@@ -4,7 +4,9 @@
   "description": "portafolio-angular",
   "main": "main",
   "homepage": "www.home.com",
-  "engines": "engines",
+  "engines": {
+  "node": ">=20"
+},
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
