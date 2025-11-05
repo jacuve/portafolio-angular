@@ -6,7 +6,7 @@
   "homepage": "www.home.com",
   "engines": {
   "node": ">=20"
-}
+},
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
